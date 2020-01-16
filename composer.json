@@ -1,5 +1,5 @@
 {
-    "name": "mihanentalpo/fio-analyzer",
+    "name": "m-rubin-itmegastar-com/fio-analyzer",
     "type": "library",
     "description": "Analyze user input string, and split it into Russian first name, second name and last name",
     "keywords": ["analyze", "names", "russian", "split"],
@@ -7,6 +7,12 @@
         {
             "name": "Mikhail Rubin",
             "email": "mihanentalpo@yandex.ru",
+            "homepage": "https://mihanentalpo.me",
+            "role": "Developer"
+        },
+        {
+            "name": "Mikhail Rubin",
+            "email": "m.rubin@itmegastar.com",
             "homepage": "https://mihanentalpo.me",
             "role": "Developer"
         }
